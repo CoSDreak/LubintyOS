@@ -6,6 +6,7 @@
       "description": "Flappy Bird style game - tap space to fly!",
       "version": "1.0",
       "file": "flappy.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/flappy.app",
       "size": "6 KB",
       "author": "Lubinty Team",
       "category": "Games",
@@ -17,6 +18,7 @@
       "description": "Play .dfpcm and .wav files from /music/",
       "version": "1.0",
       "file": "music.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/music.app",
       "size": "12 KB",
       "author": "Lubinty Team",
       "category": "Multimedia",
@@ -28,10 +30,11 @@
       "description": "Simple web browser using HTTP API",
       "version": "1.0",
       "file": "browser.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/browser.app",
       "size": "15 KB",
       "author": "Lubinty Team",
       "category": "Internet",
       "requires": "http"
-    },
+    }
   ]
 }
