@@ -33,16 +33,5 @@
       "category": "Internet",
       "requires": "http"
     },
-    {
-      "name": "Racer 3D",
-      "icon": "[CAR]",
-      "description": "3D racing game - avoid obstacles!",
-      "version": "1.0",
-      "file": "racer3d.app",
-      "size": "18 KB",
-      "author": "Lubinty Team",
-      "category": "Games",
-      "requires": "keyboard"
-    }
   ]
 }
