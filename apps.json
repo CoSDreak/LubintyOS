@@ -1,13 +1,61 @@
 {
   "apps": [
     {
+      "name": "Volkov Commander",
+      "icon": "[VC]",
+      "description": "Two-panel file manager for Lubinty OS",
+      "version": "1.0",
+      "file": "commander.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/commander.app",
+      "size": "18 KB",
+      "author": "Lubinty Team",
+      "category": "System",
+      "requires": "mouse"
+    },
+    {
+      "name": "Image Viewer",
+      "icon": "[IMG]",
+      "description": "View BMP, PNT, NFP images",
+      "version": "1.0",
+      "file": "imageview.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/imageview.app",
+      "size": "12 KB",
+      "author": "Lubinty Team",
+      "category": "Graphics",
+      "requires": "mouse"
+    },
+    {
+      "name": "Snake",
+      "icon": "[SNAKE]",
+      "description": "Classic Snake game",
+      "version": "1.0",
+      "file": "snake.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/snake.app",
+      "size": "8 KB",
+      "author": "Lubinty Team",
+      "category": "Games",
+      "requires": "keyboard"
+    },
+    {
+      "name": "Tetris",
+      "icon": "[TET]",
+      "description": "Classic Tetris game",
+      "version": "1.0",
+      "file": "tetris.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/tetris.app",
+      "size": "12 KB",
+      "author": "Lubinty Team",
+      "category": "Games",
+      "requires": "keyboard"
+    },
+    {
       "name": "Flappy Block",
       "icon": "[FLY]",
       "description": "Flappy Bird style game - tap space to fly!",
       "version": "1.0",
       "file": "flappy.app",
       "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/flappy.app",
-      "size": "6 KB",
+      "size": "8 KB",
       "author": "Lubinty Team",
       "category": "Games",
       "requires": "keyboard"
@@ -19,7 +67,7 @@
       "version": "1.0",
       "file": "music.app",
       "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/music.app",
-      "size": "12 KB",
+      "size": "10 KB",
       "author": "Lubinty Team",
       "category": "Multimedia",
       "requires": "speaker"
@@ -31,7 +79,7 @@
       "version": "1.0",
       "file": "browser.app",
       "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/browser.app",
-      "size": "15 KB",
+      "size": "10 KB",
       "author": "Lubinty Team",
       "category": "Internet",
       "requires": "http"
