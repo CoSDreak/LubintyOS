@@ -1,0 +1,48 @@
+{
+  "apps": [
+    {
+      "name": "Flappy Block",
+      "icon": "[FLY]",
+      "description": "Flappy Bird style game - tap space to fly!",
+      "version": "1.0",
+      "file": "flappy.app",
+      "size": "6 KB",
+      "author": "Lubinty Team",
+      "category": "Games",
+      "requires": "keyboard"
+    },
+    {
+      "name": "Music Player",
+      "icon": "[MUS]",
+      "description": "Play .dfpcm and .wav files from /music/",
+      "version": "1.0",
+      "file": "music.app",
+      "size": "12 KB",
+      "author": "Lubinty Team",
+      "category": "Multimedia",
+      "requires": "speaker"
+    },
+    {
+      "name": "Web Browser",
+      "icon": "[WEB]",
+      "description": "Simple web browser using HTTP API",
+      "version": "1.0",
+      "file": "browser.app",
+      "size": "15 KB",
+      "author": "Lubinty Team",
+      "category": "Internet",
+      "requires": "http"
+    },
+    {
+      "name": "Racer 3D",
+      "icon": "[CAR]",
+      "description": "3D racing game - avoid obstacles!",
+      "version": "1.0",
+      "file": "racer3d.app",
+      "size": "18 KB",
+      "author": "Lubinty Team",
+      "category": "Games",
+      "requires": "keyboard"
+    }
+  ]
+}
