@@ -7,6 +7,7 @@ end
 
 -- name: NotePad
 -- icon: [TXT]
+-- vers: [1.0]
 
 -- notepad.app
 -- Simple text editor for Lubinty OS
