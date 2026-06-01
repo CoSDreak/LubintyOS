@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "Volkov Commander",
-      "icon": "[VC]",
+      "name": "Klinok Commander",
+      "icon": "[KC]",
       "description": "Two-panel file manager for Lubinty OS",
       "version": "1.0",
       "file": "commander.app",
@@ -90,9 +90,9 @@
       "description": "Draw and save BMP images",
       "version": "1.0",
       "file": "paint.app",
-      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/paint.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/paint.app",
       "size": "8 KB",
-      "author": "N.M.D@2026",
+      "author": "Lubinty Team",
       "category": "Graphics",
       "requires": "mouse"
     },
@@ -102,9 +102,9 @@
       "description": "Simple calculator for Lubinty OS",
       "version": "1.0",
       "file": "calculator.app",
-      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/calculator.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/calculator.app",
       "size": "6 KB",
-      "author": "N.M.D@2026",
+      "author": "Lubinty Team",
       "category": "Utilities",
       "requires": "keyboard"
     },
@@ -114,9 +114,9 @@
       "description": "Send and receive files over local network",
       "version": "1.0",
       "file": "network.app",
-      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/network.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/network.app",
       "size": "10 KB",
-      "author": "N.M.D@2026",
+      "author": "Lubinty Team",
       "category": "Internet",
       "requires": "modem"
     },
@@ -126,9 +126,9 @@
       "description": "Simple text editor for .txt files",
       "version": "1.0",
       "file": "notepad.app",
-      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/notepad.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS/refs/heads/main/notepad.app",
       "size": "8 KB",
-      "author": "N.M.D@2026",
+      "author": "Lubinty Team",
       "category": "Utilities",
       "requires": "keyboard"
     }
