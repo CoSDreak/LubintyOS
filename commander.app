@@ -1,5 +1,6 @@
 -- name: Klinok Commander
 -- icon: [KC]
+-- vers: [1.0]
 
 -- klinok.app
 -- Two-panel file manager for Lubinty OS with UTF-8 support
