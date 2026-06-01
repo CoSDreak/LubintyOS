@@ -1,5 +1,6 @@
 -- name: Flappy Block
 -- icon: [FLY]
+-- vers: [1.0]
 
 -- flappy.app
 -- Flappy Bird style game for Lubinty OS
