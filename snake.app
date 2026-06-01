@@ -35,6 +35,7 @@ end
 
 -- name: Snake
 -- icon: [SNAKE]
+-- vers: [1.0]
 
 -- snake.app
 -- Classic Snake game for Lubinty OS
