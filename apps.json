@@ -85,8 +85,6 @@
       "requires": "http"
     },
     {
-  "apps": [
-    {
       "name": "Paint",
       "icon": "[ART]",
       "description": "Draw and save BMP images",
@@ -136,5 +134,3 @@
     }
   ]
 }
-  
-
