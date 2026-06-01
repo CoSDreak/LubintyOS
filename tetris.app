@@ -1,5 +1,6 @@
 -- name: Tetris
 -- icon: [TET]
+-- vers: [1.0]
 
 -- tetris.app
 -- Classic Tetris game for Lubinty OS
