@@ -36,6 +36,7 @@ end
 -- Quit with Q (ESC disabled)
 -- name: Image Viewer
 -- icon: [IMG]
+-- vers: [1.0]
 
 -- imageview.app
 -- Image viewer for Lubinty OS (supports BMP, PNT, NFP)
