@@ -83,6 +83,58 @@
       "author": "Lubinty Team",
       "category": "Internet",
       "requires": "http"
+    },
+    {
+  "apps": [
+    {
+      "name": "Paint",
+      "icon": "[ART]",
+      "description": "Draw and save BMP images",
+      "version": "1.0",
+      "file": "paint.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/paint.app",
+      "size": "8 KB",
+      "author": "N.M.D@2026",
+      "category": "Graphics",
+      "requires": "mouse"
+    },
+    {
+      "name": "Calculator",
+      "icon": "[CALC]",
+      "description": "Simple calculator for Lubinty OS",
+      "version": "1.0",
+      "file": "calculator.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/calculator.app",
+      "size": "6 KB",
+      "author": "N.M.D@2026",
+      "category": "Utilities",
+      "requires": "keyboard"
+    },
+    {
+      "name": "Network",
+      "icon": "[NET]",
+      "description": "Send and receive files over local network",
+      "version": "1.0",
+      "file": "network.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/network.app",
+      "size": "10 KB",
+      "author": "N.M.D@2026",
+      "category": "Internet",
+      "requires": "modem"
+    },
+    {
+      "name": "NotePad",
+      "icon": "[TXT]",
+      "description": "Simple text editor for .txt files",
+      "version": "1.0",
+      "file": "notepad.app",
+      "url": "https://raw.githubusercontent.com/CoSDreak/LubintyOS-System/refs/heads/main/notepad.app",
+      "size": "8 KB",
+      "author": "N.M.D@2026",
+      "category": "Utilities",
+      "requires": "keyboard"
     }
   ]
 }
+  
+
