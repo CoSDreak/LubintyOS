@@ -42,6 +42,7 @@ end
 
 -- name: Network
 -- icon: [NET]
+-- vers: [1.0]
 
 -- network.app
 -- Lubinty Network - File sharing only
