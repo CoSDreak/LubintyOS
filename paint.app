@@ -43,6 +43,7 @@ end
 -- Quit with Q (ESC disabled)
 -- name: Paint
 -- icon: [ART]
+-- vers: [1.0]
 
 -- paint.app
 -- Paint program for Lubinty OS with BMP export
