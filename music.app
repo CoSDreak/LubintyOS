@@ -1,5 +1,6 @@
 -- name: Music Player
 -- icon: [MUS]
+-- vers: [1.0]
 
 -- music.app
 -- Simple music player for Lubinty OS with speaker support
