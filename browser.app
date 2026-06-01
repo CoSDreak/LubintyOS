@@ -1,5 +1,6 @@
 -- name: Web Browser
 -- icon: [WEB]
+-- vers: [1.0]
 
 -- browser.app
 -- Simple web browser for Lubinty OS using HTTP API
