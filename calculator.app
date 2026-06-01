@@ -7,6 +7,7 @@ end
 
 -- name: Calculator
 -- icon: [CALC]
+-- vers: [1.0]
 
 -- calculator.app
 -- Simple calculator for Lubinty OS
